@@ -12,6 +12,9 @@
 
 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
 
+
+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
+
 # Introduction
 
 WebGoat is a deliberately insecure web application maintained by [OWASP](http://www.owasp.org/) designed to teach web
